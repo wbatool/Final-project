@@ -1,10 +1,15 @@
 using UnityEngine;
+using System.Collections.Generic;
+
 
 public class PlayerController : MonoBehaviour
 {
     public float speed = 5f; // Adjust the speed as needed
      public float boundaryX = 5f; // Adjust the X-axis boundary
     public float boundaryY = 5f; // Adjust the Y-axis boundary
+    private ScoreManager scoreManager;
+    private HashSet<Collider2D> encounteredTrees = new HashSet<Collider2D>();
+
 
     private Rigidbody2D rb;
 
@@ -12,7 +17,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         rb.gravityScale = 0f;
-
+        scoreManager = FindObjectOfType<ScoreManager>();
     }
 
     void Update()
@@ -36,5 +41,22 @@ public class PlayerController : MonoBehaviour
         rb.position = new Vector2(clampedX, clampedY);
     }
 
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Tree") && !encounteredTrees.Contains(other))
+        {
+            // Player reached a tree, add score and reset tree position
+            scoreManager.AddScore(10);
+            encounteredTrees.Add(other);
+            other.transform.position = new Vector2(Random.Range(-5f, 5f), Random.Range(-5f, 5f));
+        }
+    }
+void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.CompareTag("Tree"))
+        {
+            encounteredTrees.Remove(other);
+        }
+    }
     
 }
