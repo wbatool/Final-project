@@ -232,9 +232,10 @@ GameObject:
   - component: {fileID: 601437664}
   - component: {fileID: 601437663}
   - component: {fileID: 601437662}
+  - component: {fileID: 601437665}
   m_Layer: 0
   m_Name: Trees (4)
-  m_TagString: Untagged
+  m_TagString: Tree
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -249,7 +250,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -322,6 +323,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &601437665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 601437661}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4d6e71dd36a07408e8cac66cac6668, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveDistance: 1
+  moveSpeed: 2
 --- !u!1 &678629853
 GameObject:
   m_ObjectHideFlags: 0
@@ -333,9 +348,10 @@ GameObject:
   - component: {fileID: 678629856}
   - component: {fileID: 678629855}
   - component: {fileID: 678629854}
+  - component: {fileID: 678629857}
   m_Layer: 0
   m_Name: Trees (2)
-  m_TagString: Untagged
+  m_TagString: Tree
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -350,7 +366,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -423,6 +439,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &678629857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 678629853}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4d6e71dd36a07408e8cac66cac6668, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveDistance: 1
+  moveSpeed: 2
 --- !u!1 &854023758
 GameObject:
   m_ObjectHideFlags: 0
@@ -434,9 +464,10 @@ GameObject:
   - component: {fileID: 854023761}
   - component: {fileID: 854023760}
   - component: {fileID: 854023759}
+  - component: {fileID: 854023762}
   m_Layer: 0
   m_Name: Trees (1)
-  m_TagString: Untagged
+  m_TagString: Tree
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -451,7 +482,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -524,6 +555,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &854023762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 854023758}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4d6e71dd36a07408e8cac66cac6668, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveDistance: 1
+  moveSpeed: 2
 --- !u!1 &980785287
 GameObject:
   m_ObjectHideFlags: 0
@@ -535,9 +580,10 @@ GameObject:
   - component: {fileID: 980785290}
   - component: {fileID: 980785289}
   - component: {fileID: 980785288}
+  - component: {fileID: 980785291}
   m_Layer: 0
   m_Name: Trees (6)
-  m_TagString: Untagged
+  m_TagString: Tree
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -552,7 +598,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -625,6 +671,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &980785291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 980785287}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4d6e71dd36a07408e8cac66cac6668, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveDistance: 1
+  moveSpeed: 2
 --- !u!1 &1045698352
 GameObject:
   m_ObjectHideFlags: 0
@@ -636,9 +696,10 @@ GameObject:
   - component: {fileID: 1045698355}
   - component: {fileID: 1045698354}
   - component: {fileID: 1045698353}
+  - component: {fileID: 1045698356}
   m_Layer: 0
   m_Name: Trees (3)
-  m_TagString: Untagged
+  m_TagString: Tree
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -653,12 +714,12 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.022905469}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 0.5196997
 --- !u!212 &1045698354
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -726,6 +787,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1045698356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045698352}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4d6e71dd36a07408e8cac66cac6668, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveDistance: 1
+  moveSpeed: 2
 --- !u!1 &1175028650
 GameObject:
   m_ObjectHideFlags: 0
@@ -739,7 +814,6 @@ GameObject:
   - component: {fileID: 1175028652}
   - component: {fileID: 1175028651}
   - component: {fileID: 1175028655}
-  - component: {fileID: 1175028656}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -866,20 +940,6 @@ MonoBehaviour:
   speed: 5
   boundaryX: 3
   boundaryY: 5
---- !u!114 &1175028656
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1175028650}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ab4d6e71dd36a07408e8cac66cac6668, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveDistance: 2
-  moveSpeed: 0.5
 --- !u!1 &1492840978
 GameObject:
   m_ObjectHideFlags: 0
@@ -891,9 +951,11 @@ GameObject:
   - component: {fileID: 1492840980}
   - component: {fileID: 1492840979}
   - component: {fileID: 1492840981}
+  - component: {fileID: 1492840982}
+  - component: {fileID: 1492840983}
   m_Layer: 0
   m_Name: Trees
-  m_TagString: Untagged
+  m_TagString: Tree
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -975,12 +1037,40 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.5
+--- !u!114 &1492840982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1492840978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4d6e71dd36a07408e8cac66cac6668, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveDistance: 1
+  moveSpeed: 2
+--- !u!114 &1492840983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1492840978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4d6e71dd36a07408e8cac66cac6668, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveDistance: 1
+  moveSpeed: 2
 --- !u!1 &1984204623
 GameObject:
   m_ObjectHideFlags: 0
@@ -1009,7 +1099,7 @@ BoxCollider2D:
   m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1103,9 +1193,10 @@ GameObject:
   - component: {fileID: 2062290012}
   - component: {fileID: 2062290011}
   - component: {fileID: 2062290010}
+  - component: {fileID: 2062290013}
   m_Layer: 0
   m_Name: Trees (5)
-  m_TagString: Untagged
+  m_TagString: Tree
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1120,7 +1211,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1193,3 +1284,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2062290013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2062290009}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4d6e71dd36a07408e8cac66cac6668, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveDistance: 1
+  moveSpeed: 2
