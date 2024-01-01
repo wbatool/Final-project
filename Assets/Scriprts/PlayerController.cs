@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
+    public Animator animator;
     public float speed = 5f; // Adjust the speed as needed
      public float boundaryX = 5f; // Adjust the X-axis boundary
     public float boundaryY = 5f; // Adjust the Y-axis boundary
@@ -13,6 +14,8 @@ public class PlayerController : MonoBehaviour
     private int currentHealth;
     private int chances = 5;
     public Slider healthSlider;
+
+    
 
     private HashSet<Collider2D> encounteredTrees = new HashSet<Collider2D>();
 
@@ -38,6 +41,8 @@ public class PlayerController : MonoBehaviour
         // Get input from the user
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
+
+        animator.SetFloat("Speed", Mathf.Abs(horizontalInput) + Mathf.Abs(verticalInput));
 
         // Calculate the movement direction
         Vector2 movement = new Vector2(horizontalInput, verticalInput);
