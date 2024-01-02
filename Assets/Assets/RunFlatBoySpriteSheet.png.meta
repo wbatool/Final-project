@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: dfd2f282fd4134e438d44dd8901b9f6c
+=======
+guid: 7d46b351a56042541979a54644c774f8
+>>>>>>> 05a4dda251217df795d536fa210e55e1c9059718
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,7 +46,11 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
+<<<<<<< HEAD
   spriteMode: 2
+=======
+  spriteMode: 1
+>>>>>>> 05a4dda251217df795d536fa210e55e1c9059718
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -105,16 +113,25 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
+<<<<<<< HEAD
     textureFormat: 50
+=======
+    textureFormat: -1
+>>>>>>> 05a4dda251217df795d536fa210e55e1c9059718
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
+<<<<<<< HEAD
     overridden: 1
+=======
+    overridden: 0
+>>>>>>> 05a4dda251217df795d536fa210e55e1c9059718
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
+<<<<<<< HEAD
     sprites:
     - serializedVersion: 2
       name: RunFlatBoySpriteSheet_0
@@ -809,6 +826,9 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+=======
+    sprites: []
+>>>>>>> 05a4dda251217df795d536fa210e55e1c9059718
     outline: []
     physicsShape: []
     bones: []
@@ -819,6 +839,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+<<<<<<< HEAD
     nameFileIdTable:
       RunFlatBoySpriteSheet_21: -298226345
       RunFlatBoySpriteSheet_7: -1879697042
@@ -853,6 +874,9 @@ TextureImporter:
       RunFlatBoySpriteSheet_29: 1510931591
       RunFlatBoySpriteSheet_30: 72330994
       RunFlatBoySpriteSheet_3: 462546540
+=======
+    nameFileIdTable: {}
+>>>>>>> 05a4dda251217df795d536fa210e55e1c9059718
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

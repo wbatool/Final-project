@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 31705bcd799289a4b967e0fb63c4471f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 306
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2663200a04f94046bc28ab436e0e795
+      internalID: -95203996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 313
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf93df6687a8ad42ae916a6d51dff40
+      internalID: 759893072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 324
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27920eb71466a7b44ae2fbcc444f2388
+      internalID: 1291470571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_40: 716164580
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_49: 189389495
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_28: 1784269525
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_34: 925500119
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_24: -1662912631
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_16: -307837809
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_20: -1465236017
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_19: -1182597008
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_9: 427863923
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_29: -196834941
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_51: 1713447758
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_8: -1585594139
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_33: 187372596
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_44: 317885878
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_41: 694168667
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_53: -687229996
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_5: 443341202
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_50: -502619373
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_3: 1291470571
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_42: 981864676
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_7: -236416245
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_12: -2034102007
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_25: -1739867155
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_46: -791041256
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_23: 1365591865
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_22: 499281053
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_6: -277814483
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_26: -860478001
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_14: 966067129
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_30: 1835866626
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_32: 1900499876
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_2: 759893072
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_11: 105013011
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_15: -1469960301
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_18: 1753404402
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_17: 1935250790
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_31: -1179166857
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_35: 1749969046
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_1: -95203996
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_0: 1514351357
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_10: -339738578
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_13: 1757308574
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_43: 1880133121
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_39: -1043590976
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_21: -1680754408
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_47: -53977607
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_52: 1252359965
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_4: 1615812695
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_36: -477950797
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_27: 1444856224
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_45: -1022534277
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_48: 610761475
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_37: 1136343668
+      Free-Top-Down-Bushes-Pixel-Art2-removebg-preview_38: -2037781903
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

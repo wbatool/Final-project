@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: fe37f86ef66169043bff4c9932bb0431
+=======
+guid: b44b31c79ddf9b043814a3a432a0264d
+>>>>>>> 05a4dda251217df795d536fa210e55e1c9059718
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,7 +46,11 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
+<<<<<<< HEAD
   spriteMode: 2
+=======
+  spriteMode: 1
+>>>>>>> 05a4dda251217df795d536fa210e55e1c9059718
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -105,16 +113,25 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
+<<<<<<< HEAD
     textureFormat: 50
+=======
+    textureFormat: -1
+>>>>>>> 05a4dda251217df795d536fa210e55e1c9059718
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
+<<<<<<< HEAD
     overridden: 1
+=======
+    overridden: 0
+>>>>>>> 05a4dda251217df795d536fa210e55e1c9059718
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
+<<<<<<< HEAD
     sprites:
     - serializedVersion: 2
       name: RunGirlSpriteSheet-_0
@@ -305,6 +322,9 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+=======
+    sprites: []
+>>>>>>> 05a4dda251217df795d536fa210e55e1c9059718
     outline: []
     physicsShape: []
     bones: []
@@ -315,6 +335,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+<<<<<<< HEAD
     nameFileIdTable:
       RunGirlSpriteSheet-_6: 313533967
       RunGirlSpriteSheet-_0: 980722140
@@ -325,6 +346,9 @@ TextureImporter:
       RunGirlSpriteSheet-_7: -628872573
       RunGirlSpriteSheet-_4: -577691451
       RunGirlSpriteSheet-_1: -280037901
+=======
+    nameFileIdTable: {}
+>>>>>>> 05a4dda251217df795d536fa210e55e1c9059718
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
