@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main.unity
+    path: Assets/Scenes/Splash scene.unity
+    guid: 3feabe78614bdde448ab04630a7939d1
+  - enabled: 1
+    path: Assets/Scenes/JoinandCreateRoom.unity
+    guid: 932f0ea8935333348b9299e3d6e67ad4
+  - enabled: 1
+    path: Assets/Scenes/UIMenu.unity
+    guid: ce98b084c4b877d40b81289a369bb2ef
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}

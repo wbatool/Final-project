@@ -67,6 +67,6 @@ private void Save()
 
 public void ChangeScene(int SceneID)
 {
-    SceneManager.LoadScene(SceneID);
+    SceneManager.LoadScene(2);
 }
 }

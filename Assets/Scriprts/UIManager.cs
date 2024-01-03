@@ -5,8 +5,9 @@ public class UIManager : MonoBehaviour
 {
     public GameObject characterSelectionPanel;
     public GameObject MainMenu;
-    public GameObject multiplayerPanel;
+    //public GameObject multiplayerPanel;
     public GameObject SettingsMenu;
+    public GameObject player;
 
     private void Start()
     {
@@ -18,8 +19,8 @@ public class UIManager : MonoBehaviour
     {
         // Disable UI panels initially
         characterSelectionPanel.SetActive(false);
-        MainMenu.SetActive(false);
-        multiplayerPanel.SetActive(true);
+        MainMenu.SetActive(true);
+        //multiplayerPanel.SetActive(true);
 
         // Hide the cursor
         //Cursor.visible = false;
@@ -30,6 +31,7 @@ public class UIManager : MonoBehaviour
     {
         // Enable the character selection panel and disable others
         characterSelectionPanel.SetActive(true);
+        player.SetActive(true);
         MainMenu.SetActive(false);
         // Add more panels as needed
     }
@@ -53,4 +55,6 @@ public class UIManager : MonoBehaviour
         MainMenu.SetActive(true);
         SettingsMenu.SetActive(false);
     }
+
+    
 }

@@ -1,0 +1,861 @@
+fileFormatVersion: 2
+guid: dc02291dc0321e641af937b3ab47465a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af39c2bd8cf6296439e0d7be3fca75af
+      internalID: 2142410078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 14
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12a35111a6573b46a14c0945abd689c
+      internalID: -1174542621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 17
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bf3e4c55ad43442a53db41ebc09700
+      internalID: -1521941869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 18
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15416b63638f95e4c90bb66a35601712
+      internalID: 738172356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 12
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d7f757df773194d89046b15e364723
+      internalID: -1069555465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 12
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b77a3f6c7e6d84fbd791b2badc43d6
+      internalID: 1214640977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad29774241f5b647990e280e2dccd42
+      internalID: 17277020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3874d56a1cfaa6149ab58157db64c01f
+      internalID: 1814012518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 14
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f08b0a3d0f06e49a2a3459bb21610f
+      internalID: 1262715172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 71
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af2d072d5407f149aaf3eb3273fcff0
+      internalID: 792703170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 18
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cfb82db2195694a98defd327618f0a
+      internalID: -1965048278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6e244775d3da94f9239b90a4c37912
+      internalID: 1434681101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 18
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47280f1cb9f6c5540820f6be5d97cd2d
+      internalID: -775911550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 7
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa35f8aee71d7724cb8cef703ee0fd27
+      internalID: 64799155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 7
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d257bcb6d0c16b54981443aba8df7f69
+      internalID: 1203366995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb12a8ad2bc764458973ab883b06149
+      internalID: 308525242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ed6ee10e5867b45bd94f8702678c86
+      internalID: 183455604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b568e8c1cd37c294eb9a809377164e5a
+      internalID: 505971442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51709cebce8de94cae3bccaad146f29
+      internalID: -1665661580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9280196464af0874190d533e8d6b7fc8
+      internalID: -1396463690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1f51781616ea143a301f4d746363df
+      internalID: 999844083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447f20e5f9c112a42b844673e20924fe
+      internalID: 2009903767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 7
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d83cbf49fa213840a3ab98f0506f9da
+      internalID: -1163588613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6e53aa289776d4ba3b06c913192d50
+      internalID: -1761023785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657658de0cd5bb449ac733851a6535f1
+      internalID: 1957441474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb672e56bd5e0d47a1658537da5e145
+      internalID: 730596961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fb2e4611d63f942b5be56f3b4bbb52
+      internalID: 1773861276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f160373416a419840a9aef077ec8bec6
+      internalID: 273904005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdd926933f1289459bf1bc4a2b576ca
+      internalID: 1619858578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2ffb17a3a20de4fb32475ce5a4d13c
+      internalID: -1130738295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dde06db69a9f794cbd405c7c0f2c916
+      internalID: -1069152248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faafab06fef9f9478f76d9c04141a65
+      internalID: -2108199395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunFlatBoySpriteSheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b335442dd7c85044bead070a87a55ca
+      internalID: -905010674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RunFlatBoySpriteSheet 1_12: -775911550
+      RunFlatBoySpriteSheet 1_30: -1069152248
+      RunFlatBoySpriteSheet 1_10: -1965048278
+      RunFlatBoySpriteSheet 1_32: -905010674
+      RunFlatBoySpriteSheet 1_15: 308525242
+      RunFlatBoySpriteSheet 1_18: -1665661580
+      RunFlatBoySpriteSheet 1_21: 2009903767
+      RunFlatBoySpriteSheet 1_6: 17277020
+      RunFlatBoySpriteSheet 1_22: -1163588613
+      RunFlatBoySpriteSheet 1_31: -2108199395
+      RunFlatBoySpriteSheet 1_23: -1761023785
+      RunFlatBoySpriteSheet 1_14: 1203366995
+      RunFlatBoySpriteSheet 1_5: 1214640977
+      RunFlatBoySpriteSheet 1_8: 1262715172
+      RunFlatBoySpriteSheet 1_29: -1130738295
+      RunFlatBoySpriteSheet 1_7: 1814012518
+      RunFlatBoySpriteSheet 1_24: 1957441474
+      RunFlatBoySpriteSheet 1_2: -1521941869
+      RunFlatBoySpriteSheet 1_13: 64799155
+      RunFlatBoySpriteSheet 1_28: 1619858578
+      RunFlatBoySpriteSheet 1_3: 738172356
+      RunFlatBoySpriteSheet 1_11: 1434681101
+      RunFlatBoySpriteSheet 1_26: 1773861276
+      RunFlatBoySpriteSheet 1_4: -1069555465
+      RunFlatBoySpriteSheet 1_16: 183455604
+      RunFlatBoySpriteSheet 1_25: 730596961
+      RunFlatBoySpriteSheet 1_19: -1396463690
+      RunFlatBoySpriteSheet 1_27: 273904005
+      RunFlatBoySpriteSheet 1_1: -1174542621
+      RunFlatBoySpriteSheet 1_9: 792703170
+      RunFlatBoySpriteSheet 1_17: 505971442
+      RunFlatBoySpriteSheet 1_0: 2142410078
+      RunFlatBoySpriteSheet 1_20: 999844083
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
